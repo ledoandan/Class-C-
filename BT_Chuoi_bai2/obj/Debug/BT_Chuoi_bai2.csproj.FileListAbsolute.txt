@@ -1,0 +1,7 @@
+D:\225\LT_C#\Tuan3\BT_Chuoi_bai2\obj\Debug\BT_Chuoi_bai2.csproj.AssemblyReference.cache
+D:\225\LT_C#\Tuan3\BT_Chuoi_bai2\obj\Debug\BT_Chuoi_bai2.csproj.CoreCompileInputs.cache
+D:\225\LT_C#\Tuan3\BT_Chuoi_bai2\bin\Debug\BT_Chuoi_bai2.exe.config
+D:\225\LT_C#\Tuan3\BT_Chuoi_bai2\bin\Debug\BT_Chuoi_bai2.exe
+D:\225\LT_C#\Tuan3\BT_Chuoi_bai2\bin\Debug\BT_Chuoi_bai2.pdb
+D:\225\LT_C#\Tuan3\BT_Chuoi_bai2\obj\Debug\BT_Chuoi_bai2.exe
+D:\225\LT_C#\Tuan3\BT_Chuoi_bai2\obj\Debug\BT_Chuoi_bai2.pdb
