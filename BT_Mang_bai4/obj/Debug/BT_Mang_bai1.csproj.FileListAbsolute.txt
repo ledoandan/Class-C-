@@ -1,0 +1,7 @@
+D:\225\LT_C#\Tuan3\BT_Mang_bai1\bin\Debug\BT_Mang_bai1.exe.config
+D:\225\LT_C#\Tuan3\BT_Mang_bai1\bin\Debug\BT_Mang_bai1.exe
+D:\225\LT_C#\Tuan3\BT_Mang_bai1\bin\Debug\BT_Mang_bai1.pdb
+D:\225\LT_C#\Tuan3\BT_Mang_bai1\obj\Debug\BT_Mang_bai1.csproj.AssemblyReference.cache
+D:\225\LT_C#\Tuan3\BT_Mang_bai1\obj\Debug\BT_Mang_bai1.csproj.CoreCompileInputs.cache
+D:\225\LT_C#\Tuan3\BT_Mang_bai1\obj\Debug\BT_Mang_bai1.exe
+D:\225\LT_C#\Tuan3\BT_Mang_bai1\obj\Debug\BT_Mang_bai1.pdb
